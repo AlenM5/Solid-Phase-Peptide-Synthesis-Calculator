@@ -1,3 +1,3 @@
 # Solid-Phase-Peptide-Synthesis-Calculator
 
-hello
+hello i am

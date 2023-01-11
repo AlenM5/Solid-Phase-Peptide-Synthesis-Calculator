@@ -1,4 +1,4 @@
-# Solid-Phase-Peptide-Synthesis-Calculator
+# Solid-Phase-Peptide-Synthesis-Calculator (v1)
 
 Repository link: https://github.com/AlenM5/solid_phase_peptide_synthesis_calculator
 
